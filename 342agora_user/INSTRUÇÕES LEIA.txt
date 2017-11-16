@@ -1,0 +1,6 @@
+1 - Dê permissões de acesso a internet para o programa
+2 - Faça login normalmente em sua conta do twitter
+3 - Após o login, o bot irá redirecionar o navegador para a página de tweets
+4 - Na pasta do programa há dois arquivos de texto com as frases que serão inseridas nos tweets e o endereço de cada deputado. Você pode alterar e inserir mais frases diferentes para os tweets. (Quanto mais frases diferentes melhor)
+5 - Cada tweet é feito a cada 40~120 segundos
+6 - Compartilhe este sofware e vamos encher o twitter dos deputados para que eles votem a favor das investigações contra Temer
